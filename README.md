@@ -28,7 +28,7 @@ Your first week is about understanding what SQL is and learning how to retrieve 
   - `SELECT` & `FROM`: [Youtube Video](https://www.youtube.com/watch?v=HYD8KjPB9F8)
   - `WHERE`: [Youtube Video](https://www.youtube.com/watch?v=MARn_mssG4A)
 
-💡 **Tip:** You can start practicing what you just learned [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools.
+💡 **Tip:** You can start practicing what you just learned using the [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools.
 
 ## Week 2: Aggregations & GROUP BY (Summarizing Data)
 
