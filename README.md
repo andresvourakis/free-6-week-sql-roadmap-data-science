@@ -59,10 +59,10 @@ Now that you’ve mastered the basics of combining data with `JOINs`, you can ta
 
 ✋ **Note:** This section is more advanced. If you're still getting comfortable with basic SQL, feel free to skip this for now and return later.
 
-- **What are Window Functions?** [Youtube Video]()
+- **What are Window Functions?** [Youtube Video](https://www.youtube.com/watch?v=xFeOVIIRyvQ)
 - **Common Window Functions**:
-  - `ROW_NUMBER()` and `RANK()` [Youtube Video]()
-  - `SUM() OVER()` and `PARTITION BY` [Youtube Video]()
+  - `ROW_NUMBER()`, `RANK()` and `DENSE_RANK()`: [Youtube Video](https://www.youtube.com/watch?v=rIcB4zMYMas)
+  - Window Functions Cheat sheet: [Article](https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet)
 
 💡 **Tip:** Check out how [5 real examples](https://tobeadatascientist.substack.com/p/5-powerful-ways-i-use-sql-window-functions) of how I use window functions as a Data Scientist in tech
 
