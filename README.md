@@ -36,8 +36,7 @@ Your first week is about understanding what SQL is and learning how to retrieve 
 In your second week, you'll learn how to summarize data for insights using aggregation functions. This is critical for creating reports and dashboards.
 
 - **Aggregations (COUNT, SUM, AVG, MAX, MIN)**: [Youtube Video](https://www.youtube.com/watch?v=Jeq5a8FdfkI)
-- **Using GROUP BY**: [Youtube Video](https://www.youtube.com/watch?v=4T4cqpOdfMY)
-- **HAVING & WHERE**: [Youtube Video](https://www.youtube.com/watch?v=qpoc9Fe5V5s)
+- **Using GROUP BY (HAVING & WHERE)**: [Youtube Video](https://www.youtube.com/watch?v=nNrgRVIzeHg)
 
 💡 **Tip:** When working with aggregations, start with smaller datasets to avoid performance issues and make debugging easier.
 
@@ -60,10 +59,10 @@ Now that you’ve mastered the basics of combining data with `JOINs`, you can ta
 
 ✋ **Note:** This section is more advanced. If you're still getting comfortable with basic SQL, feel free to skip this for now and return later.
 
-- **What are Window Functions?** [Youtube Video](https://www.youtube.com/watch?v=j2-Lb-f49R0)
+- **What are Window Functions?** [Youtube Video]()
 - **Common Window Functions**:
-  - `ROW_NUMBER()` and `RANK()` [Youtube Video](https://www.youtube.com/watch?v=tNyp3CcbS4E)
-  - `SUM() OVER()` and `PARTITION BY` [Youtube Video](https://www.youtube.com/watch?v=_YykbBTFDvk)
+  - `ROW_NUMBER()` and `RANK()` [Youtube Video]()
+  - `SUM() OVER()` and `PARTITION BY` [Youtube Video]()
 
 💡 **Tip:** Check out how [5 real examples](https://tobeadatascientist.substack.com/p/5-powerful-ways-i-use-sql-window-functions) of how I use window functions as a Data Scientist in tech
 
@@ -71,8 +70,8 @@ Now that you’ve mastered the basics of combining data with `JOINs`, you can ta
 
 In week 5, you’re now ready for multi-step queries. You’re really advancing in your SQL skills at this point, and you should be proud of yourself!
 
-- **Learn about CTEs**: [Youtube Video](https://www.youtube.com/watch?v=auWm2XJIhxQ)
-- **Learn about sub-queries**: [Youtube Video](https://www.youtube.com/watch?v=3PrXE2D9wZg)
+- **Learn about CTEs**: [Youtube Video](https://www.youtube.com/watch?v=_SanZ41uTlw)
+- **Learn about sub-queries**: [Youtube Video](https://www.youtube.com/watch?v=GpC0XyiJPEo)
 
 💡 **Tip:** When working with CTEs and sub-queries, break your queries down into smaller parts and test them individually before combining them.
 
@@ -100,6 +99,6 @@ Now that you have the foundational skills, it's time to apply them in real-world
 
 Here are some more resources to help you on your Data Science journey:
 
-1. **[Data Scientist Handbook](https://github.com/andresvourakis/data-scientist-handbook)**: A curated list of resources (Free & Paid) to help data scientists learn, grow, and break into the field of data science.
-2. **[To Be a Data Scientist (Newsletter)](https://tobeadatascientist.substack.com/)**: Weekly insights to break into Data Science and advance your career (**Join 2K+ Data Science already accelerating their careers**).
+1. 📚 **[Data Scientist Handbook](https://github.com/andresvourakis/data-scientist-handbook)**: A curated list of resources (Free & Paid) to help data scientists learn, grow, and break into the field of data science.
+2. 💌 **[To Be a Data Scientist (Newsletter)](https://tobeadatascientist.substack.com/)**: Weekly insights to break into Data Science and advance your career (**Join 2K+ Data Science already accelerating their careers**).
 3. **[6-Week Python Roadmap](#)**: A structured plan to master Python for data science and analytics.
