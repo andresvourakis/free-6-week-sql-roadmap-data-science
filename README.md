@@ -14,7 +14,7 @@ Here is what the roadmap looks like:
 - **Week 5:** Advance your skills with CTEs and sub-queries for complex queries.
 - **Weeks 6-7:** Build your own projects to apply everything you've learned.
 
-💡 **Tip:** Although all of this can be achieved for **free** using curated resources, don't overlook paid courses which can be great at proving you more in depth knowledge.
+💡 **Tip:** Make sure you are not just watching tutorials or reading articles. Practice every step of the way to ensure you have a good understanding of the concepts. You can use this [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools to practice SQL commands without needing to install anything.
 
 Alright, let’s get started! 🚀
 
@@ -28,8 +28,7 @@ Your first week is about understanding what SQL is and learning how to retrieve 
   - `SELECT` & `FROM`: [Youtube Video](https://www.youtube.com/watch?v=HYD8KjPB9F8)
   - `WHERE`: [Youtube Video](https://www.youtube.com/watch?v=MARn_mssG4A)
 
-💡 **Tip:** You can use this [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools to practice SQL commands without needing to install anything.
-
+💡 **Tip:** You can start practicing what you just learned [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools.
 
 ## Week 2: Aggregations & GROUP BY (Summarizing Data)
 
@@ -95,9 +94,21 @@ Now that you have the foundational skills, it's time to apply them in real-world
 
 💡 **Tip:** Take time to document your projects. Writing clear descriptions of the problem you’re solving and your approach will help solidify your understanding and build your portfolio.
 
+## Practice SQL
+Here are 5 great websites where you can practice SQL and keep your skills sharp
+
+- [SQLZoo](https://sqlzoo.net/)
+- [LeetCode](https://leetcode.com/problemset/database/)
+- [HackerRank](https://www.hackerrank.com/domains/sql)
+- [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+
+💡 **Tip:** If you are unsure where to start, the [SQL 50](https://leetcode.com/studyplan/top-sql-50/) by LeetCode is a great challenge.
+
+
 ## Additional Data Science Resources
 
-Here are some more resources to help you on your Data Science journey:
+ Here are some more resources to help you on your Data Science journey:
 
 1. 📚 **[Data Scientist Handbook](https://github.com/andresvourakis/data-scientist-handbook)**: A curated list of resources (Free & Paid) to help data scientists learn, grow, and break into the field of data science.
 2. 💌 **[To Be a Data Scientist (Newsletter)](https://tobeadatascientist.substack.com/)**: Weekly insights to break into Data Science and advance your career (**Join 2K+ Data Science already accelerating their careers**).
