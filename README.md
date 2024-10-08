@@ -87,7 +87,7 @@ Now that you have the foundational skills, it's time to apply them in real-world
         - **Difficulty**: Beginner to Intermediate
 
     2. **Movie Recommendation System (SQL-Based)**
-        - **Objective**: Build a simple movie recommendation system based on user ratings.
+        - **Objective**: Build a **simple** movie recommendation system based on user ratings.
         - **Dataset**: Use the [MovieLens dataset](https://grouplens.org/datasets/movielens/), which includes user ratings for movies.
         - **Outcome**: Generate a list of recommended movies based on user preferences and ratings patterns.
         - **Difficulty**: Intermediate to Advanced
