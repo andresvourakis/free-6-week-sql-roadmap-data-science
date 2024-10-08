@@ -35,7 +35,7 @@ Your first week is about understanding what SQL is and learning how to retrieve 
 
 In your second week, you'll learn how to summarize data for insights using aggregation functions. This is critical for creating reports and dashboards.
 
-- **Aggregations (COUNT, SUM, AVG, MAX, MIN)**: [Youtube Video](https://www.youtube.com/watch?v=Jeq5a8FdfkI)
+- **Aggregations (COUNT, SUM, AVG, MAX, MIN)**: [Youtube Video](https://www.youtube.com/watch?v=jcoJuc5e3RE)
 - **Using GROUP BY (HAVING & WHERE)**: [Youtube Video](https://www.youtube.com/watch?v=nNrgRVIzeHg)
 
 💡 **Tip:** When working with aggregations, start with smaller datasets to avoid performance issues and make debugging easier.
@@ -45,9 +45,9 @@ In your second week, you'll learn how to summarize data for insights using aggre
 
 Understanding relational databases and mastering `JOINs` to combine tables is key for more complex analysis in Data Science & Analytics.
 
-- **What is a relational database?**: [Youtube Video](https://www.youtube.com/watch?v=frXkGu_0Bbw)
+- **What is a relational database?**: [Youtube Video](https://www.youtube.com/watch?v=OqjJjpjDRLc)
 - **Introduction to JOINs**:
-    - [Youtube Video](https://www.youtube.com/watch?v=eXnBslJJ26A)
+    - [Youtube Video](https://www.youtube.com/watch?v=9URM1_2S0ho)
     - [Article](https://www.atlassian.com/data/sql/sql-join-types-explained-visually)
 
 💡 **Tip:** Practice `JOINs` with different types of datasets to understand how they combine data. Try to visualize what the result will look like before running the query.
