@@ -7,14 +7,15 @@ I created this roadmap to guide you through mastering SQL basics in just **6 wee
 
 Here is what the roadmap looks like:
 
-- **Week 1:** Learn the SQL basics and how to retrieve data.
-- **Week 2:** Master aggregations and `GROUP BY` for data summarization.
-- **Week 3:** Dive into relational databases and `JOINs` to combine datasets.
-- **Week 4:** Learn Window Functions for advanced data manipulation.
-- **Week 5:** Advance your skills with CTEs and sub-queries for complex queries.
-- **Weeks 6-7:** Build your own projects to apply everything you've learned.
+- **[Week 1](#week-1-learn-the-basics-of-sql-data-retrieval):** Learn the SQL basics and how to retrieve data.
+- **[Week 2](#week-2-aggregations--group-by-summarizing-data):** Master aggregations and `GROUP BY` for data summarization.
+- **[Week 3](#week-3-databases--joins-combining-data-sources):** Dive into relational databases and `JOINs` to combine datasets.
+- **[Week 4](#week-4-learn-window-functions-optional-advanced-topic):** Learn Window Functions for advanced data manipulation.
+- **[Week 5](#week-5-learn-to-use-ctes-and-sub-queries):** Advance your skills with CTEs and sub-queries for complex queries.
+- **[Weeks 6-7](#weeks-6-7-build-your-own-projects-hands-on-practice):** Build your own projects to apply everything you've learned.
 
-💡 **Tip:** Make sure you are not just watching tutorials or reading articles. Practice every step of the way to ensure you have a good understanding of the concepts. You can use this [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools to practice SQL commands without needing to install anything.
+### Want to really learn SQL?
+Then don't just watch the tutorials and read the articles, practice every step of the way to ensure you gain a good understanding of the different concepts. You can use this [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools to practice SQL commands without needing to install anything. I also share other great [resources](#practice-sql) at the bottom of this respository.
 
 Alright, let’s get started! 🚀
 
@@ -104,7 +105,6 @@ Here are 5 great websites where you can practice SQL and keep your skills sharp
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 
 💡 **Tip:** If you are unsure which one to choose, the [SQL 50](https://leetcode.com/studyplan/top-sql-50/) by LeetCode is usually a great starting point.
-
 
 ## Additional Data Science Resources
 
