@@ -112,6 +112,5 @@ Here are 5 great websites where you can practice SQL and keep your skills sharp
 
 1. 📚 **[Data Scientist Handbook](https://github.com/andresvourakis/data-scientist-handbook)**: A curated list of resources (Free & Paid) to help data scientists learn, grow, and break into the field of data science.
 2. 💌 **[To Be a Data Scientist (Newsletter)](https://tobeadatascientist.substack.com/)**: Weekly insights to break into Data Science and advance your career (**Join 2K+ Data Science already accelerating their careers**).
-3. **[6-Week Python Roadmap](#)**: A structured plan to master Python for data science and analytics.
 
 If you have questions or feedback send me a message through [here](https://www.linkedin.com/in/andresvourakis/). Enjoy!
