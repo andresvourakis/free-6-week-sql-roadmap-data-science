@@ -98,13 +98,13 @@ Now that you have the foundational skills, it's time to apply them in real-world
 ## Practice SQL
 Here are 5 great websites where you can practice SQL and keep your skills sharp
 
-- [SQLZoo](https://sqlzoo.net/)
+- [DataLemur](https://datalemur.com/sql-tutorial)
 - [LeetCode](https://leetcode.com/problemset/database/)
+- [SQLZoo](https://sqlzoo.net/)
 - [HackerRank](https://www.hackerrank.com/domains/sql)
 - [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
-- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 
-💡 **Tip:** If you are unsure which one to choose, the [SQL 50](https://leetcode.com/studyplan/top-sql-50/) by LeetCode is usually a great starting point.
+💡 **Tip:** If you are unsure which one to choose, the [SQL 50](https://leetcode.com/studyplan/top-sql-50/) by LeetCode is usually a great starting point and DataLemur is specially great for practicing for DS/DA interviews.
 
 ## Additional Data Science Resources
 
