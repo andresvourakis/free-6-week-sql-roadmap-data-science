@@ -64,7 +64,7 @@ Now that you’ve mastered the basics of combining data with `JOINs`, you can ta
   - `ROW_NUMBER()`, `RANK()` and `DENSE_RANK()`: [Youtube Video](https://www.youtube.com/watch?v=rIcB4zMYMas)
   - Window Functions Cheat sheet: [Article](https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet)
 
-💡 **Tip:** Check out how [5 real examples](https://tobeadatascientist.substack.com/p/5-powerful-ways-i-use-sql-window-functions) of how I use window functions as a Data Scientist in tech
+💡 **Tip:** Check out [5 real examples](https://tobeadatascientist.substack.com/p/5-powerful-ways-i-use-sql-window-functions) of how I use window functions as a Data Scientist in tech
 
 ## Week 5: Learn to use CTEs and sub-queries
 
@@ -84,7 +84,7 @@ Now that you have the foundational skills, it's time to apply them in real-world
     1. **Customer Segmentation Analysis**
         - **Objective**: Analyze customer behavior and group them into segments based on purchasing habits.
         - **Dataset**: Use an open dataset like the [UCI Online Retail dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) or any e-commerce dataset.
-        - **Outcome**: Create distinct customer profiles (e.g., high-spenders, occasional buyers) and generate a report to inform marketing strategies.
+        - **Outcome**: Create distinct customer profiles (e.g., high spenders, occasional buyers) and generate a report to inform marketing strategies.
         - **Difficulty**: Beginner to Intermediate
 
     2. **Movie Recommendation System (SQL-Based)**
@@ -111,6 +111,6 @@ Here are 5 great websites where you can practice SQL and keep your skills sharp
  Here are some more resources to help you on your Data Science journey:
 
 1. 📚 **[Data Scientist Handbook](https://github.com/andresvourakis/data-scientist-handbook)**: A curated list of resources (Free & Paid) to help data scientists learn, grow, and break into the field of data science.
-2. 💌 **[To Be a Data Scientist (Newsletter)](https://tobeadatascientist.substack.com/)**: Weekly insights to break into Data Science and advance your career (**Join 2K+ Data Science already accelerating their careers**).
+2. 💌 **[To Be a Data Scientist (Newsletter)](https://tobeadatascientist.substack.com/)**: Weekly insights to break into Data Science and advance your career (**Join 6K+ Data scientists already accelerating their careers**).
 
-If you have questions or feedback send me a message through [here](https://www.linkedin.com/in/andresvourakis/). Enjoy!
+If you have questions or feedback, send me a message through [here](https://www.linkedin.com/in/andresvourakis/). Enjoy!
