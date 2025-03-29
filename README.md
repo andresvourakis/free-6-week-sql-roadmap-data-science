@@ -15,7 +15,7 @@ Here is what the roadmap looks like:
 - **[Weeks 6-7](#weeks-6-7-build-your-own-projects-hands-on-practice):** Build your own projects to apply everything you've learned.
 
 ### Want to really learn SQL?
-Then don't just watch the tutorials and read the articles, practice every step of the way to ensure you gain a good understanding of the different concepts. You can use this [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools to practice SQL commands without needing to install anything. I also share other great [resources](#practice-sql) at the bottom of this respository.
+Then don't just watch the tutorials and read the articles, practice every step of the way to ensure you gain a good understanding of the different concepts. You can use this [online SQL server](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by W3Schools to practice SQL commands without needing to install anything. I also share other great [resources](#practice-sql) at the bottom of this repository.
 
 Alright, let’s get started! 🚀
 
