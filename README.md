@@ -104,7 +104,7 @@ Here are 5 great websites where you can practice SQL and keep your skills sharp
 - [SQLZoo](https://sqlzoo.net/)
 - [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
 
-💡 **Tip:** If you are unsure which one to choose, the [SQL 50](https://leetcode.com/studyplan/top-sql-50/) by LeetCode is usually a great starting point and DataLemur is specially great for practicing for DS/DA interviews.
+💡 **Tip:** If you are unsure which one to choose, the [SQL 50](https://leetcode.com/studyplan/top-sql-50/) by LeetCode is usually a great starting point, and Interview Master is especially great for practicing for DS/DA interviews.
 
 ## Additional Data Science Resources
 
