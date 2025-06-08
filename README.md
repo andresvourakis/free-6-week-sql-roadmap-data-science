@@ -98,6 +98,7 @@ Now that you have the foundational skills, it's time to apply them in real-world
 ## Practice SQL
 Here are 5 great websites where you can practice SQL and keep your skills sharp
 
+- [Interview Master](https://sql-interview-master-bohemestudios.vercel.app/?ref=andres)
 - [DataLemur](https://datalemur.com/sql-tutorial)
 - [LeetCode](https://leetcode.com/problemset/database/)
 - [SQLZoo](https://sqlzoo.net/)
